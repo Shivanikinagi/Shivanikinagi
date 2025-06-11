@@ -6,10 +6,10 @@ A passionate Computer Science Student and AI/ML Enthusiast 🚀
 - 📧 Email: shivani.kinagi@gmail.com
 
 ## 🛠️ Skills:
-- Python 🐍  
-- SQL 🗃️  
-- HTML/CSS/JavaScript 🌐  
-- C++ ⚙️
+- Python 
+- SQL   
+- HTML/CSS/JavaScript 
+- C++ 
 - Django
 - Flask
 - ML
