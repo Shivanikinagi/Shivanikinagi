@@ -49,5 +49,4 @@ A passionate Computer Science Student and AI/ML Enthusiast 🚀
 
 
 
-![Profile views](https://komarev.com/ghpvc/?username=Shivanikinagi&label=Profile%20views&color=0e75b6&style=flat)
 
