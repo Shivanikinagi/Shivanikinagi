@@ -5,17 +5,6 @@ A passionate Computer Science Student and AI/ML Enthusiast 🚀
 - [LinkedIn](https://www.linkedin.com/in/shivani-kinagi-b630b829a/)
 - [Email](shivani.kinagi@gmail.com)
 
-## 🛠️ Skills:
-- Python 
-- SQL   
-- HTML/CSS/JavaScript 
-- C++ 
-- Django
-- Flask
-- ML
-- NLP
-- C
-- LLM
 
 ## 📊 GitHub Stats:
 
@@ -45,6 +34,13 @@ A passionate Computer Science Student and AI/ML Enthusiast 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="OpenAI" width="40" height="40"/>
+</p>
 </p>
 
 
