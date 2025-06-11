@@ -3,7 +3,7 @@ A passionate Computer Science Student and AI/ML Enthusiast 🚀
 
 ## 🌐 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/shivani-kinagi-b630b829a/)
-- 📧 Email: shivani.kinagi@gmail.com
+- [Email](shivani.kinagi@gmail.com)
 
 ## 🛠️ Skills:
 - Python 
