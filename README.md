@@ -1,6 +1,6 @@
 # Hi, I'm Shivani!  
 
-🎓 **B.Tech Computer Science (AI)** student | 📊 **Data Science Enthusiast** | 🤖 **AI & ML Developer** | 🖥️ **Web Developer**  
+**GenAI Enthusiast** | 🤖 **AI & ML Developer** | 🖥️ **Full Stack Developer**  
 
 🚀 Currently building **AI-driven analytics applications** and working with modern **Python frameworks** to develop scalable, impactful projects.
 
