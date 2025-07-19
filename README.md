@@ -6,6 +6,10 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=Shivanikinagi&color=blue&style=flat)
+
+---
+
 ## 🌐 Connect with Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shivani-kinagi-b630b829a/)
