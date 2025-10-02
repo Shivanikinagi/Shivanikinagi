@@ -52,14 +52,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivanikinagi&show_icons=true&theme=radical)  
-
-![GitHub streak stats](https://streak-stats.demolab.com?user=Shivanikinagi&theme=radical)
-
----
-
 ## 💡 Fun Fact  
 
 ✨ I love blending AI, creativity, and clean code to build projects that solve real-world problems 🚀  
