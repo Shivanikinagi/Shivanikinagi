@@ -1,6 +1,6 @@
 # Hi, I'm Shivani!  
 
-**GenAI Enthusiast** | 🤖 **AI & ML Developer** | 🖥️ **Full Stack Developer**  
+**GenAI Enthusiast** | 🤖 **AI & ML Developer**  
 
 🚀 Currently building **AI-driven analytics applications** and working with modern **Python frameworks** to develop scalable, impactful projects.
 
