@@ -9,22 +9,14 @@ Always learning. Always building. Always leveling up. ⚡
 
 💫 About Me
 
-🔥 AI & ML Developer specializing in LLMs, NLP, and AI automation
-
-🤖 Experience with PEFT, LoRA, QLoRA, embeddings & vector search
-
-🚀 Building AI-driven applications using Flask, Django, Streamlit
-
-📊 Strong background in data preprocessing, modeling, and deployment
-
-🧠 Focus on building systems that are practical, reliable, and production-ready
-
-🎯 Driven by curiosity, clarity, and problem-solving
+🔥 I’m an AI & ML Developer obsessed with pushing machines beyond their limits—specializing in LLMs, NLP, and AI automation. 🚀 I craft intelligent applications using Flask, Django, and Streamlit, backed by a rock-solid foundation in data preprocessing, modeling, optimization, and deployment. 🧠 My mission is to build AI systems that are so practical and reliable they feel unreal, powered by a mindset fueled with curiosity, clarity, and just the right amount of madness to create things people don’t expect.
 
 🌐 Socials
 
-
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shivaniii.11_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-kinagi-b630b829a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivani.kinagi@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Shivani824018)
 
 💻 Tech Stack
 🧠 AI / ML / NLP
@@ -40,4 +32,7 @@ Always learning. Always building. Always leveling up. ⚡
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
 
-"First, solve the problem. Then, write the code." — John Johnson
+💡 **Quote of the Day**
+
+> 🚀 **“First, solve the problem. Then, write the code.” — John Johnson**
+
