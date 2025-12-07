@@ -1,101 +1,43 @@
-👋 Hi, I'm Shivani Kinagi
-AI & ML Developer | Generative AI Practitioner | NLP & LLM Engineer
+👋 Hi there, I'm Shivani
+🚀 AI & ML Developer | Generative AI Practitioner | NLP + LLM Engineer
 
-I build intelligent systems, design high-impact AI workflows, and develop scalable ML applications powered by modern Python frameworks and state-of-the-art models.
+I build intelligent AI systems, design LLM-powered applications, and develop high-performance ML pipelines that solve real-world problems.
 
-My work sits at the intersection of deep learning, NLP, LLMs, and AI automation—focused on creating solutions that are practical, data-driven, and production-ready.
+Passionate about Generative AI, RAG systems, LLM fine-tuning, and AI automation, I turn cutting-edge research into elegant and scalable engineering solutions.
 
-🚀 Professional Summary
+Always learning. Always building. Always leveling up. ⚡
 
-Specialize in Generative AI, Transformer-based models, and Retrieval-Augmented Generation (RAG).
+💫 About Me
 
-Experienced in building end-to-end AI pipelines: data preprocessing → model training → deployment.
+🔥 AI & ML Developer specializing in LLMs, NLP, and AI automation
 
-Develop smart, high-performance applications using Flask, Streamlit, Django, and modern vector search technologies.
+🤖 Experience with PEFT, LoRA, QLoRA, embeddings & vector search
 
-Skilled in embedding models, PEFT/LoRA fine-tuning, and vector databases for scalable AI retrieval systems.
+🚀 Building AI-driven applications using Flask, Django, Streamlit
 
-Adept at combining analytical thinking with clean engineering practices for impactful real-world solutions.
+📊 Strong background in data preprocessing, modeling, and deployment
 
-🧠 Technical Focus Areas
+🧠 Focus on building systems that are practical, reliable, and production-ready
 
-Generative AI & LLMs (GPT, LLaMA, fine-tuning, QLoRA)
+🎯 Driven by curiosity, clarity, and problem-solving
 
-NLP, embeddings, semantic search, text classification
-
-RAG systems with vector databases (Pinecone, Qdrant, FAISS)
-
-Model optimization: PEFT, LoRA, Quantization
-
-End-to-end Python ML development
-
-API development & backend engineering
-
-Data analysis, preprocessing, visualization
-
-🛠️ Technical Skillset
-<p align="left">
-
-  <!-- AI/ML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
-
-  <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/static/logo.svg" width="90"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Faiss_logo.svg/1200px-Faiss_logo.svg.png" width="120"/>
-
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva" height="28"/>
-
-</p>
+🌐 Socials
 
 
-🌟 Selected Projects
 
-AI-Generated Text Detector – BERT model deployed via Flask
 
-RAG-Based AI Search System – embeddings, vector DBs, custom retrieval pipeline
+💻 Tech Stack
+🧠 AI / ML / NLP
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge" height="28"/> </p>
+⚙️ Frameworks / Backend
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/> </p>
+🗄️ Databases / Data Layer
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/static/logo.svg" width="90"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Faiss_logo.svg/1200px-Faiss_logo.svg.png" width="120"/> </p>
+🌐 Frontend / Tools
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/> <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&style=for-the-badge" height="28"/> </p>
+![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
-FASTag Fraud Analytics System – SQL + ML–driven anomaly detection
+![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
 
-E-Commerce Analytics Platform – ML-powered insights for retail decisions
-
-AI Workflow Automation Agent – multi-step reasoning and tool-use system
-
-(Full project descriptions available on request or GitHub.)
-
-🌐 Connect with Me
-
-LinkedIn: https://www.linkedin.com/in/shivani-kinagi-b630b829a/
-
-Email: shivani.kinagi@gmail.com
-
-⚡ A Thought That Drives Me
-
-“Intelligence isn’t just about prediction.
-The next era of AI will belong to systems that understand, reason, and act — autonomously.”
-
-I’m working every day to be part of the team that builds that era.
+"First, solve the problem. Then, write the code." — John Johnson
