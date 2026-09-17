@@ -2,7 +2,7 @@
 
 ## 👩‍💻 Shivani Kinagi
 
-🚀 **3x Hackathon winner | TOp 4 - AI x Michelin hackathon | AI & ML Developer | Generative AI Practitioner | NLP + LLM Engineer | Agentic AI**
+🚀 **3x Hackathon winner | Top 4 - AI x Michelin hackathon | AI & ML Developer | Generative AI Practitioner | NLP + LLM Engineer | Agentic AI**
 
 I build **intelligent AI systems**, design **LLM-powered applications**, and develop **high-performance ML pipelines** that solve real-world problems.  
 Passionate about **Generative AI**, **RAG systems**, **LLM fine-tuning**, and **AI automation**, I turn cutting-edge research into elegant and scalable engineering solutions.
